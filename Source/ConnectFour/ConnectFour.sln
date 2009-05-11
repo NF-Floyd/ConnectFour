@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectFour", "ConnectFour.csproj", "{5F563902-0BD3-49D5-83EC-1B07A919F184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectFourPlayer_NFriendsFloyd", "..\ConnectFour_SamplePlayer\ConnectFourPlayer_NFriendsFloyd.csproj", "{551732C7-7DFA-4949-8C78-ED6849114548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectFourPlayer_Random", "..\ConnectFour_RandomPlayer\ConnectFourPlayer_Random.csproj", "{31318264-987B-4D19-861F-EC14A59954B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectFourPlayer_Schmidt", "..\ConnectFourPlayer_ASSchmidt\ConnectFourPlayer_Schmidt.csproj", "{0598F8D2-E520-4A03-9D92-894F5E04140C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs10.codeplex.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ConnectFour.csproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = ..\\ConnectFour_RandomPlayer\\ConnectFourPlayer_Random.csproj
+		SccProjectName2 = ../ConnectFour_RandomPlayer
+		SccLocalPath2 = ..\\ConnectFour_RandomPlayer
+		SccProjectUniqueName3 = ..\\ConnectFour_SamplePlayer\\ConnectFourPlayer_NFriendsFloyd.csproj
+		SccProjectName3 = ../ConnectFour_SamplePlayer
+		SccLocalPath3 = ..\\ConnectFour_SamplePlayer
+		SccProjectUniqueName4 = ..\\ConnectFourPlayer_ASSchmidt\\ConnectFourPlayer_Schmidt.csproj
+		SccProjectName4 = ../ConnectFourPlayer_ASSchmidt
+		SccLocalPath4 = ..\\ConnectFourPlayer_ASSchmidt
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F563902-0BD3-49D5-83EC-1B07A919F184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F563902-0BD3-49D5-83EC-1B07A919F184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F563902-0BD3-49D5-83EC-1B07A919F184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F563902-0BD3-49D5-83EC-1B07A919F184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{551732C7-7DFA-4949-8C78-ED6849114548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{551732C7-7DFA-4949-8C78-ED6849114548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{551732C7-7DFA-4949-8C78-ED6849114548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{551732C7-7DFA-4949-8C78-ED6849114548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31318264-987B-4D19-861F-EC14A59954B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31318264-987B-4D19-861F-EC14A59954B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31318264-987B-4D19-861F-EC14A59954B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31318264-987B-4D19-861F-EC14A59954B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0598F8D2-E520-4A03-9D92-894F5E04140C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0598F8D2-E520-4A03-9D92-894F5E04140C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0598F8D2-E520-4A03-9D92-894F5E04140C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0598F8D2-E520-4A03-9D92-894F5E04140C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
