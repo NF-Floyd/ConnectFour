@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden 
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die mit einer Assembly verknüpft sind.
-[assembly: AssemblyTitle("FourWins")]
+[assembly: AssemblyTitle("Connect Four")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("NFriends")]
-[assembly: AssemblyProduct("FourWins")]
-[assembly: AssemblyCopyright("Copyright © NFriends 2008")]
+[assembly: AssemblyProduct("ConnectFour")]
+[assembly: AssemblyCopyright("Copyright © NFriends 2008-2010")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
